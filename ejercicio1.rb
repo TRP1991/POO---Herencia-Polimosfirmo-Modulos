@@ -46,4 +46,4 @@ class Parent < Person
     end
 end
 
-# print p1 = Parent.new('Tamara','Rubilar', 32).talk
+# print p1 = Parent.new('Tamara','Rubilar', 28).talk
